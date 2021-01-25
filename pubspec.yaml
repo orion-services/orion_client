@@ -1,0 +1,10 @@
+name: orion_client
+description: An Orion client for Dart developers
+version: 1.0.0
+homepage: https://orion-services.dev
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: ^0.12.2
