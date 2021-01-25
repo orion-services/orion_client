@@ -8,10 +8,11 @@ Created from templates made available by Stagehand under a BSD-style
 A simple usage example:
 
 ```dart
-import 'package:orion_client/orion_client.dart';
+import 'package:orion_client/src/web_service.dart';
 
-main() {
-  var awesome = new Awesome();
+void main() {
+  var ws = new UsersWebService(false, false);
+  ws.createUser('name', 'email', 'password');
 }
 ```
 
