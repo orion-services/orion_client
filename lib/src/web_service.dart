@@ -9,7 +9,7 @@ class UsersWebService extends BaseClient {
   /// [bool enableSecurity] indicates is the client will work with http or https
   ///
   /// [bool devMode] modify the service URL to operates in dev mode. In development
-  /// mode, Open liberty modifies the service URL eliminating When we are the application
+  /// mode Open liberty modifies the service URL eliminating When we are the application
   /// name orion-user-service
   ///
   /// [String tockenChannel] indicates the token a channel (optional)
