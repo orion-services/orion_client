@@ -1,6 +1,6 @@
-# test_orion
+# orion client
 
-A new Flutter package project.
+A Flutter library.
 
 ## Getting Started
 
