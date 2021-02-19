@@ -1,3 +1,3 @@
-## 1.0.0
+## [0.0.1] - TODO: Add release date.
 
-- Initial version, created by Rodrigo Prestes Machado
+* TODO: Describe initial release.
