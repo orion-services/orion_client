@@ -30,7 +30,7 @@ class BaseClient {
   /// and [bool devMode] changes the URL of remove for development mode
   BaseClient(bool enableSecurity, bool devMode) {
     app = 'orion-users-service';
-    host = 'localhost';
+    host = '10.0.2.2';
     port = '9080';
     wsEndpoint = 'orion-users-service/users';
     socketEndpoint = 'usersws';
