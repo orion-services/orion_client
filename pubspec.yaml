@@ -2,7 +2,7 @@ name: orion_client
 description: A new Flutter package project.
 version: 1.0.3
 author:
-homepage:
+homepage: https://github.com/orion-services/orion_client.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

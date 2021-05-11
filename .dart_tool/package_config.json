@@ -3,27 +3,27 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-6.0.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-21.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-0.39.14",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/analyzer-1.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "archive",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/archive-2.0.13",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "args",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.12"
     },
     {
       "name": "async",
@@ -33,9 +33,9 @@
     },
     {
       "name": "bazel_worker",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/bazel_worker-0.1.25",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/bazel_worker-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.12"
     },
     {
       "name": "boolean_selector",
@@ -45,63 +45,63 @@
     },
     {
       "name": "build",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build-1.3.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "build_config",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_config-0.4.2",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_config-0.4.7",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.11"
     },
     {
       "name": "build_daemon",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_daemon-2.1.7",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_daemon-2.1.10",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.11"
     },
     {
       "name": "build_modules",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_modules-2.11.3",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_modules-3.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.8"
+      "languageVersion": "2.11"
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_resolvers-1.3.11",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_resolvers-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_runner-1.10.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_runner-1.12.2",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.11"
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_runner_core-6.0.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_runner_core-6.1.12",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.11"
     },
     {
       "name": "build_web_compilers",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_web_compilers-2.11.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/build_web_compilers-2.16.5",
       "packageUri": "lib/",
-      "languageVersion": "2.8"
+      "languageVersion": "2.11"
     },
     {
       "name": "built_collection",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/built_collection-4.3.2",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/built_collection-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "built_value",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/built_value-7.1.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/built_value-8.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.12"
     },
     {
       "name": "characters",
@@ -117,15 +117,15 @@
     },
     {
       "name": "checked_yaml",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/checked_yaml-1.0.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/checked_yaml-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "cli_util",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/cli_util-0.1.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/cli_util-0.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "clock",
@@ -135,7 +135,7 @@
     },
     {
       "name": "code_builder",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/code_builder-3.6.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/code_builder-3.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -147,33 +147,27 @@
     },
     {
       "name": "convert",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/convert-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "1.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "coverage",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/coverage-0.14.2",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/coverage-1.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.5",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
-    },
-    {
-      "name": "csslib",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.16.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/dart_style-1.3.6",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/dart_style-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -183,15 +177,15 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/file-5.2.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "fixnum",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.11",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/fixnum-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter",
@@ -207,21 +201,15 @@
     },
     {
       "name": "glob",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/glob-1.2.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/glob-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "graphs",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/graphs-0.2.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/graphs-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
-      "name": "html",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.14.0+4",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.12"
     },
     {
       "name": "http",
@@ -231,9 +219,9 @@
     },
     {
       "name": "http_multi_server",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http_multi_server-2.2.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http_multi_server-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "http_parser",
@@ -242,16 +230,10 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "intl",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.5"
-    },
-    {
       "name": "io",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/io-0.3.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/io-0.3.5",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.1"
     },
     {
       "name": "js",
@@ -261,15 +243,15 @@
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/json_annotation-3.1.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "logging",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/logging-1.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "matcher",
@@ -285,21 +267,9 @@
     },
     {
       "name": "mime",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
-      "name": "node_interop",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/node_interop-1.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.9"
-    },
-    {
-      "name": "node_io",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/node_io-1.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "node_preamble",
@@ -309,9 +279,9 @@
     },
     {
       "name": "package_config",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/package_config-1.9.3",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/package_config-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "path",
@@ -339,33 +309,27 @@
     },
     {
       "name": "protobuf",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/protobuf-1.1.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/protobuf-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "pub_semver",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/pub_semver-1.4.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "pubspec_parse",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-0.1.8",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
-    },
-    {
-      "name": "quiver",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "scratch_space",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/scratch_space-0.0.4+3",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/scratch_space-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.12"
     },
     {
       "name": "shelf",
@@ -429,9 +393,9 @@
     },
     {
       "name": "stream_transform",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-1.2.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "string_scanner",
@@ -465,9 +429,9 @@
     },
     {
       "name": "timing",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/timing-0.1.1+3",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/timing-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "typed_data",
@@ -483,33 +447,33 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-4.2.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-6.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "watcher",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/watcher-0.9.7+15",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.10"
     },
     {
       "name": "webkit_inspection_protocol",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/webkit_inspection_protocol-0.7.5",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/webkit_inspection_protocol-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "yaml",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-2.2.1",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.4"
+      "languageVersion": "2.12"
     },
     {
       "name": "orion_client",
@@ -518,7 +482,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-05-11T21:55:11.526488Z",
+  "generated": "2021-05-11T22:05:57.085211Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
