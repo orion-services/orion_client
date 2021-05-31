@@ -213,9 +213,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3",
       "packageUri": "lib/",
-      "languageVersion": "2.4"
+      "languageVersion": "2.12"
     },
     {
       "name": "http_multi_server",
@@ -225,9 +225,9 @@
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.3"
+      "languageVersion": "2.12"
     },
     {
       "name": "io",
@@ -333,9 +333,9 @@
     },
     {
       "name": "shelf",
-      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/shelf-0.7.9",
+      "rootUri": "file:///C:/Users/eusou/OneDrive/Documentos/flutter/.pub-cache/hosted/pub.dartlang.org/shelf-1.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "shelf_packages_handler",
@@ -482,7 +482,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-05-11T22:17:45.804550Z",
+  "generated": "2021-05-31T18:33:31.181776Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }

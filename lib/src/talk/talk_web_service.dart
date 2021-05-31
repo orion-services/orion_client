@@ -10,8 +10,10 @@
 /// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 /// See the License for the specific language governing permissions and
 ///  limitations under the License.
+
 import 'package:http/http.dart' as http;
 import 'base_client.dart';
+import 'dart:html';
 
 class TalkWebService extends BaseClient {
   /// instatiate a UserWebService object.
@@ -31,21 +33,21 @@ class TalkWebService extends BaseClient {
   /// Web Serive: creates a Channel in the Oriton Talk microservices
   /// and returns [Future<http.Response>]
   Future<http.Response> createChannel() {
-    var url = wsURL + 'createChannel';
+    final Object url = wsURL + 'createChannel';
     return http.get(url);
   }
 
   /// Web Serive: sends a [message] to a channel through a [token] and
   /// returns [Future<http.Response>]
   Future<http.Response> sendTextMessage(String message) {
-    var url = wsURL + 'send';
+    final Object url = wsURL + 'send';
     return http.post(url, body: {'token': token, 'message': message});
   }
 
   /// Web Serive: loads a channel through a [token] to retrieve all messages
   /// and returns [Future<http.Response>]
   Future<http.Response> loadMessages(String token) {
-    var url = wsURL + 'load' + '/' + token;
+    final Object url = wsURL + 'load' + '/' + token;
     print(url);
     return http.get(url);
   }

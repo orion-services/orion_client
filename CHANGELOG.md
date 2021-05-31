@@ -1,3 +1,4 @@
-## [1.0.4] - Update.
+## [1.0.5] - Update.
 
-* Talk
+* http package update
+

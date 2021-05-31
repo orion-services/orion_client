@@ -1,3 +1,5 @@
+
+
 // ignore: avoid_web_libraries_in_flutter
 /// Copyright 2020 Orion Services
 /// Licensed under the Apache License, Version 2.0 (the "License");
@@ -11,8 +13,8 @@
 /// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 /// See the License for the specific language governing permissions and
 ///  limitations under the License.
-//import 'dart:html';
-import 'dart:html' show WebSocket;
+/// import 'dart:html';
+import 'dart:html';
 import 'base_client.dart';
 
 /// Web Socket client for Talk microservice
